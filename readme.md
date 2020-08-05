@@ -1,0 +1,3 @@
+# scripts
+
+idk some scripts
